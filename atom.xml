@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2020-03-30T14:43:06.834Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://yang66995.cn/"/>
+  <updated>2020-03-19T15:07:26.975Z</updated>
+  <id>http://yang66995.cn/</id>
   
   <author>
     <name>yang66995</name>
@@ -17,23 +17,186 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2020/03/30/hello-world/"/>
-    <id>http://yoursite.com/2020/03/30/hello-world/</id>
-    <published>2020-03-30T14:43:06.834Z</published>
-    <updated>2020-03-30T14:43:06.834Z</updated>
+    <title>word自定义目录设置导航</title>
+    <link href="http://yang66995.cn/2020/03/19/word%E8%87%AA%E5%AE%9A%E4%B9%89%E7%9B%AE%E5%BD%95%E8%AE%BE%E7%BD%AE%E5%AF%BC%E8%88%AA/"/>
+    <id>http://yang66995.cn/2020/03/19/word%E8%87%AA%E5%AE%9A%E4%B9%89%E7%9B%AE%E5%BD%95%E8%AE%BE%E7%BD%AE%E5%AF%BC%E8%88%AA/</id>
+    <published>2020-03-19T14:56:44.000Z</published>
+    <updated>2020-03-19T15:07:26.975Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="如何在WORD文档中设置导航"><a href="#如何在WORD文档中设置导航" class="headerlink" title="如何在WORD文档中设置导航"></a>如何在WORD文档中设置导航</h1><ul><li>择需要设置为主目录的文字，单击鼠标右键，选择段落菜单<br><img src="/" class="lazyload" data-src="https://s1.ax1x.com/2020/03/19/86pvaF.png"  alt="86pvaF.png"></li><li>在弹出的段落设置窗口中，将常规下的大纲级别修改为一级</li><li>同理，选择需要指定一位二级的目录内容，并将其大纲级别修改为二级，修改完成后点击确定关闭段落设置窗口。</li><li>将鼠标移动到上方菜单栏中的视图窗口，找到下方的导航窗格工具并勾选可以看到，在左侧导航窗口中已经显示导航标题链接了，点击即可导航到指定位置。</li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;h1 id=&quot;如何在WORD文档中设置导航&quot;&gt;&lt;a href=&quot;#如何在WORD文档中设置导航&quot; class=&quot;headerlink&quot; title=&quot;如何在WORD文档中设置导航&quot;&gt;&lt;/a&gt;如何在WORD文档中设置导航&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;择需要设置为主目录的文字，单击鼠
       
     
     </summary>
     
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Qt常见错误</title>
+    <link href="http://yang66995.cn/2020/02/27/Qt%E5%B8%B8%E8%A7%81%E9%94%99%E8%AF%AF/"/>
+    <id>http://yang66995.cn/2020/02/27/Qt%E5%B8%B8%E8%A7%81%E9%94%99%E8%AF%AF/</id>
+    <published>2020-02-27T08:05:54.000Z</published>
+    <updated>2020-02-27T08:07:57.947Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="打开已有Qt项目运行报错。"><a href="#打开已有Qt项目运行报错。" class="headerlink" title="打开已有Qt项目运行报错。"></a>打开已有Qt项目运行报错。</h1><ul><li>进程”C:\Qt\Qt5.9.6\5.9.6\mingw53_32\bin\qmake.exe”退出,退出代码 2</li></ul><h2 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h2><ul><li>将文件存放至英文路径下。</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;打开已有Qt项目运行报错。&quot;&gt;&lt;a href=&quot;#打开已有Qt项目运行报错。&quot; class=&quot;headerlink&quot; title=&quot;打开已有Qt项目运行报错。&quot;&gt;&lt;/a&gt;打开已有Qt项目运行报错。&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;进程”C:\Qt\Qt5.9.6\5.9
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Git学习笔记</title>
+    <link href="http://yang66995.cn/2020/02/25/Git%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://yang66995.cn/2020/02/25/Git%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
+    <published>2020-02-25T15:27:10.000Z</published>
+    <updated>2020-02-25T15:49:49.117Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><a href="http://yang66995.cn/Git/" target="_blank" rel="noopener">http://yang66995.cn/Git/</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://yang66995.cn/Git/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://yang66995.cn/Git/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="笔记" scheme="http://yang66995.cn/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>CPP学习笔记</title>
+    <link href="http://yang66995.cn/2020/02/25/CPP%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://yang66995.cn/2020/02/25/CPP%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
+    <published>2020-02-25T15:25:10.000Z</published>
+    <updated>2020-02-25T15:50:06.767Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><a href="http://yang66995.cn/CPP/" target="_blank" rel="noopener">http://yang66995.cn/CPP/</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://yang66995.cn/CPP/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://yang66995.cn/CPP/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="笔记" scheme="http://yang66995.cn/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>PDF转图片</title>
+    <link href="http://yang66995.cn/2020/02/25/PDF%E8%BD%AC%E5%9B%BE%E7%89%87/"/>
+    <id>http://yang66995.cn/2020/02/25/PDF%E8%BD%AC%E5%9B%BE%E7%89%87/</id>
+    <published>2020-02-25T01:40:17.000Z</published>
+    <updated>2020-02-25T01:43:34.346Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="pdf转图片"><a href="#pdf转图片" class="headerlink" title="pdf转图片"></a>pdf转图片</h1><p>使用格式工厂将pdf转为图片格式，图片格式可以自行选择。</p><p>格式工厂下载地址：<a href="http://www.pcfreetime.com/formatfactory/CN/index.html" target="_blank" rel="noopener">http://www.pcfreetime.com/formatfactory/CN/index.html</a></p><p>!&gt; 转换时只转换一页，多页pdf默认转换第一张。</p><p><img src="/" class="lazyload" data-src="https://s2.ax1x.com/2020/02/25/3JdYgf.png"  alt="3JdYgf.png"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;pdf转图片&quot;&gt;&lt;a href=&quot;#pdf转图片&quot; class=&quot;headerlink&quot; title=&quot;pdf转图片&quot;&gt;&lt;/a&gt;pdf转图片&lt;/h1&gt;&lt;p&gt;使用格式工厂将pdf转为图片格式，图片格式可以自行选择。&lt;/p&gt;
+&lt;p&gt;格式工厂下载地址：&lt;a href=&quot;
+      
+    
+    </summary>
+    
+    
+      <category term="软件" scheme="http://yang66995.cn/categories/%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+      <category term="PDF" scheme="http://yang66995.cn/tags/PDF/"/>
+    
+      <category term="软件" scheme="http://yang66995.cn/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo部署</title>
+    <link href="http://yang66995.cn/2020/02/22/Hexo%E9%83%A8%E7%BD%B2/"/>
+    <id>http://yang66995.cn/2020/02/22/Hexo%E9%83%A8%E7%BD%B2/</id>
+    <published>2020-02-22T15:32:17.000Z</published>
+    <updated>2020-02-22T17:45:48.748Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Github-Hexo-aliyun"><a href="#Github-Hexo-aliyun" class="headerlink" title="Github+Hexo+aliyun"></a>Github+Hexo+aliyun</h1><h2 id="github配置"><a href="#github配置" class="headerlink" title="github配置"></a>github配置</h2><h2 id="Hexo配置"><a href="#Hexo配置" class="headerlink" title="Hexo配置"></a>Hexo配置</h2><ul><li>安装Git</li><li>安装node.js</li><li>安装hexo</li></ul><a id="more"></a><hr><p>安装hexo</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install -g hexo-cli</span><br></pre></td></tr></table></figure><p>创建新文件夹存储博客文件，名称随意</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">mkdir &lt;your_blog_name&gt;</span><br></pre></td></tr></table></figure><p>在文件夹下<code>git bash</code>往文件夹里安装Hexo</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo init</span><br></pre></td></tr></table></figure><h2 id="aliyun"><a href="#aliyun" class="headerlink" title="aliyun"></a>aliyun</h2>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Github-Hexo-aliyun&quot;&gt;&lt;a href=&quot;#Github-Hexo-aliyun&quot; class=&quot;headerlink&quot; title=&quot;Github+Hexo+aliyun&quot;&gt;&lt;/a&gt;Github+Hexo+aliyun&lt;/h1&gt;&lt;h2 id=&quot;github配置&quot;&gt;&lt;a href=&quot;#github配置&quot; class=&quot;headerlink&quot; title=&quot;github配置&quot;&gt;&lt;/a&gt;github配置&lt;/h2&gt;&lt;h2 id=&quot;Hexo配置&quot;&gt;&lt;a href=&quot;#Hexo配置&quot; class=&quot;headerlink&quot; title=&quot;Hexo配置&quot;&gt;&lt;/a&gt;Hexo配置&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;安装Git&lt;/li&gt;
+&lt;li&gt;安装node.js&lt;/li&gt;
+&lt;li&gt;安装hexo&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+    
+      <category term="学习" scheme="http://yang66995.cn/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="Hexo" scheme="http://yang66995.cn/tags/Hexo/"/>
+    
+      <category term="建站" scheme="http://yang66995.cn/tags/%E5%BB%BA%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Qt学习笔记</title>
+    <link href="http://yang66995.cn/2020/02/22/Qt%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://yang66995.cn/2020/02/22/Qt%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
+    <published>2020-02-22T15:14:44.000Z</published>
+    <updated>2020-02-25T15:50:10.491Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><a href="http://yang66995.cn/Qt/" target="_blank" rel="noopener">http://yang66995.cn/Qt/</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://yang66995.cn/Qt/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://yang66995.cn/Qt/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="笔记" scheme="http://yang66995.cn/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
   </entry>
